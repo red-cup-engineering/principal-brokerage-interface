@@ -17,8 +17,7 @@
   "description": "principal-brokerage-interface sovereign enterprise",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-web-engineering-services-section.git",
-    "directory": "services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/principal-brokerage-interface"
+    "url": "git+https://github.com/red-cup-engineering/principal-brokerage-interface.git"
   },
   "dependencies": {
     "@red-cup-engineering/json-services-section": "0.4.0",
